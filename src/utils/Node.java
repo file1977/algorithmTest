@@ -1,4 +1,4 @@
-package util;
+package utils;
 
 /**
  * Created by File on 2017/6/10.
